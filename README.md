@@ -1,4 +1,4 @@
-# API Practice: The Weeknd — Spotify + Genius
+# Spotify-Genius API Pipeline: The Weeknd
 
 This project pulls album and track data for **The Weeknd** from the **Spotify Web API** and song lyrics from the **Genius API**, combines the two datasets, and runs exploratory data analysis (EDA).
 
@@ -14,7 +14,7 @@ This project pulls album and track data for **The Weeknd** from the **Spotify We
 
 ## Project Structure
 ```
-API_Practice/
+Spotify-Genius-API-Pipeline/
 ├── README.md
 ├── requirements.txt
 ├── .env                      # API keys (NOT included in the submission)
